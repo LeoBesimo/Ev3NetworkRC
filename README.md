@@ -6,6 +6,6 @@ server.py runs on the host computer
 client.py runs on the Ev3  
 Controller.py small own wrapper for the inputs library to make it more readable  
   
-Dependancies:  
+##Dependancies:  
   -[inputs](https://pypi.org/project/inputs/)  
-  -[ev3dev*](https://pypi.org/project/python-ev3dev2/)  
+  -[ev3dev2](https://pypi.org/project/python-ev3dev2/)  
