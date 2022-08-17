@@ -1,6 +1,6 @@
 # Ev3NetworkRC  
   
-A little Project to Remote Controll a Lego Mindstorms Ev3 wit Custom Firmware over Wlan with a XBox controller.  
+A little Project to Remote Control a Lego Mindstorms Ev3 wit Custom Firmware over Wlan with a XBox controller.  
   
 [server.py](src/server.py) runs on the host computer  
 [client.py](src/client.py) runs on the Ev3  
