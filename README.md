@@ -1,5 +1,8 @@
 # Ev3NetworkRC  
-  
+
+This Project is deprecated.
+Please refer to [this](https://github.com/LeoBesimo/Ev3RemoteControl) Repository for the new Version
+
 A little Project to Remote Control a Lego Mindstorms Ev3 with Custom Firmware over Wlan with a XBox controller.  
   
 [server.py](src/server.py) runs on the host computer  
